@@ -1,2 +1,2 @@
-# AGMediaVideoHybrid-0.0.8
+# AGMediaVideoHybrid-0.0.9
 TRTC 视频 Hybrid 封装 SDK
